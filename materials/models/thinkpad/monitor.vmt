@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/thinkpad/monitor"
+	"$selfillum" "1"
+}

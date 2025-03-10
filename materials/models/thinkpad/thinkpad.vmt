@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/thinkpad/thinkpad"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+//	"$envmaptint" "[ .5 .5 .5 ]"
+
+	"$bumpmap" "models/thinkpad/thinkpadnormal"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "5"
+	"$phongfresnelranges" "[0.05 0.2 0.6]"
+
+	"$model" "1"
+	"$halflambert" "1"
+}
